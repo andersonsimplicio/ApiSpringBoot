@@ -1,0 +1,1 @@
+Este repositório foi desenvolvido exclusivamente para fins de estudo e aprendizado do ecossistema Spring Boot. Ele funciona como um laboratório pessoal para praticar a criação de APIs, padrões de projeto e conceitos de desenvolvimento backend. Não deve ser considerado um projeto pronto para produção.
