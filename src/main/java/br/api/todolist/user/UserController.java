@@ -31,8 +31,5 @@ public class UserController {
             userCreated = this.userRepository.save(user);
            return ResponseEntity.status(HttpStatus.CREATED).body(userCreated);
         }
-
-
-        
     }
 }
