@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TodoLisApplication {
 
 	public static void main(String[] args) {
+		//Programa princicpal
 		SpringApplication.run(TodoLisApplication.class, args);
 	}
 
